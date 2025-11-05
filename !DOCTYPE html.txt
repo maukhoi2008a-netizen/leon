@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lợi ích của việc học ngoại ngữ | The Benefits of Learning Foreign Languages</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f8fafc;
+      color: #1e293b;
+      line-height: 1.6;
+    }
+
+    header {
+      position: fixed;
+      width: 100%;
+      background-color: #1e3a8a;
+      color: white;
+      padding: 15px 0;
+      text-align: center;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    section {
+      padding: 100px 20px 60px 20px;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    h1, h2 {
+      color: #1e3a8a;
+    }
+
+    .intro img, .benefits img, .methods img, .conclusion img {
+      width: 100%;
+      max-width: 600px;
+      display: block;
+      margin: 20px auto;
+      border-radius: 8px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px;
+      background-color: #1e3a8a;
+      color: white;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <a href="#intro">Giới thiệu / Introduction</a>
+      <a href="#benefits">Lợi ích / Benefits</a>
+      <a href="#methods">Phương pháp / Methods</a>
+      <a href="#conclusion">Kết luận / Conclusion</a>
+    </nav>
+  </header>
+
+  <section id="intro" class="intro">
+    <h1>Lợi ích của việc học ngoại ngữ<br><em>The Benefits of Learning Foreign Languages</em></h1>
+    <img src="https://cdn.pixabay.com/photo/2015/09/05/21/51/student-925534_1280.jpg" alt="Học sinh học ngoại ngữ">
+    <p>
+      Việc học ngoại ngữ không chỉ giúp mở rộng vốn hiểu biết mà còn rèn luyện khả năng tư duy, giao tiếp và hội nhập toàn cầu.  
+      <br><br>
+      <em>Learning a foreign language not only broadens knowledge but also strengthens thinking skills, communication, and global integration.</em>
+    </p>
+  </section>
+
+  <section id="benefits" class="benefits">
+    <h2>Lợi ích / Benefits</h2>
+    <img src="https://cdn.pixabay.com/photo/2016/03/09/09/30/globe-1246207_1280.jpg" alt="Globe illustration">
+    <ul>
+      <li><strong>Phát triển trí não:</strong> Học ngoại ngữ giúp cải thiện trí nhớ và khả năng tập trung.  
+        <br><em>Boosts brain function: improves memory and focus.</em></li>
+      <li><strong>Mở rộng cơ hội nghề nghiệp:</strong> Giúp bạn có lợi thế khi làm việc trong môi trường quốc tế.  
+        <br><em>Expands career opportunities in global environments.</em></li>
+      <li><strong>Hiểu biết văn hoá:</strong> Khám phá và tôn trọng sự đa dạng văn hoá.  
+        <br><em>Enhances cultural understanding and appreciation.</em></li>
+    </ul>
+  </section>
+
+  <section id="methods" class="methods">
+    <h2>Phương pháp học hiệu quả / Effective Methods</h2>
+    <img src="https://cdn.pixabay.com/photo/2016/06/19/12/53/learn-1465928_1280.jpg" alt="Học sinh học ngôn ngữ">
+    <ol>
+      <li><strong>Đặt mục tiêu rõ ràng:</strong> Học từng bước với kế hoạch cụ thể.  
+        <br><em>Set clear goals and follow a structured plan.</em></li>
+      <li><strong>Luyện tập hàng ngày:</strong> Sử dụng ngoại ngữ trong giao tiếp, nghe, đọc, viết.  
+        <br><em>Practice daily: speaking, listening, reading, and writing.</em></li>
+      <li><strong>Tạo môi trường học tập:</strong> Xem phim, nghe nhạc, đọc sách bằng ngoại ngữ.  
+        <br><em>Immerse yourself: watch movies, listen to songs, read in the target language.</em></li>
+    </ol>
+  </section>
+
+  <section id="conclusion" class="conclusion">
+    <h2>Kết luận / Conclusion</h2>
+    <img src="https://cdn.pixabay.com/photo/2016/11/29/04/15/book-1869965_1280.jpg" alt="Sách học ngôn ngữ">
+    <p>
+      Học ngoại ngữ là hành trình dài nhưng đầy ý nghĩa, giúp bạn phát triển toàn diện về trí tuệ, cảm xúc và tương lai nghề nghiệp.  
+      <br><br>
+      <em>Learning a foreign language is a lifelong journey that enriches the mind, heart, and career prospects.</em>
+    </p>
+  </section>
+
+  <footer>
+    © 2025 - Dự án học ngoại ngữ cho học sinh | Language Learning for Students
+  </footer>
+
+</body>
+</html>
